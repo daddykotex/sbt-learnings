@@ -9,3 +9,8 @@ understand how it works.
 The project will be split on several branches. Each branch contains an sbt
 project built specifically to demonstrate something. The branch name shall
 be explicit about the nature of the sbt project.
+
+## Branches
+
+* [single project that can be released](/../../tree/release-single)
+* [multi project that can be released](/../../tree/release-multi)
